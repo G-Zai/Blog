@@ -1,18 +1,15 @@
-name = "HB Starter Theme Template"
+name = "HB Cards Theme"
 license = "MIT"
-licenselink = "https://github.com/hbstack/theme/blob/main/LICENSE"
-description = "The starter theme template of HB (Hugo Bootstrap) Framework"
-homepage = "https://github.com/hbstack/theme"
-demosite = "https://theme.hbstack.dev/"
+licenselink = "https://github.com/hbstack/theme-cards/blob/main/LICENSE"
+description = "HB cards style theme for building fast, responsive, modern and modular static websites."
+homepage = "https://github.com/hbstack/theme-cards"
+demosite = "https://theme-cards.hbstack.dev/"
 tags = [
     "archive",
     "blog",
     "bootstrap",
     "dark",
     "dark mode",
-    "docs",
-    "gallery",
-    "landing",
     "multilingual",
     "personal",
     "responsive"
