@@ -2,127 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://G-Zai.github.io/en/blog/2024/06/advance/</loc>
+    <loc>http://localhost:1313/en/blog/2024/06/advance/</loc>
     <lastmod>2024-06-24T20:25:25+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://G-Zai.github.io/zh-hans/blog/2024/06/%E5%8D%9A%E6%96%87%E9%A2%84%E5%91%8A/"
+                href="http://localhost:1313/zh-hans/blog/2024/06/%E5%8D%9A%E6%96%87%E9%A2%84%E5%91%8A/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://G-Zai.github.io/en/blog/2024/06/advance/"
+                href="http://localhost:1313/en/blog/2024/06/advance/"
                 />
   </url><url>
-    <loc>https://G-Zai.github.io/en/blog/</loc>
+    <loc>http://localhost:1313/en/blog/</loc>
     <lastmod>2024-06-24T20:25:25+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://G-Zai.github.io/zh-hans/blog/"
+                href="http://localhost:1313/zh-hans/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://G-Zai.github.io/en/blog/"
+                href="http://localhost:1313/en/blog/"
                 />
   </url><url>
-    <loc>https://G-Zai.github.io/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2024-06-24T20:25:25+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://G-Zai.github.io/zh-hans/"
+                href="http://localhost:1313/zh-hans/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://G-Zai.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://G-Zai.github.io/en/archives/</loc>
+    <loc>http://localhost:1313/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://G-Zai.github.io/zh-hans/archives/"
+                href="http://localhost:1313/zh-hans/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://G-Zai.github.io/en/archives/"
+                href="http://localhost:1313/en/archives/"
                 />
   </url><url>
-    <loc>https://G-Zai.github.io/en/authors/</loc>
+    <loc>http://localhost:1313/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://G-Zai.github.io/zh-hans/authors/"
+                href="http://localhost:1313/zh-hans/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://G-Zai.github.io/en/authors/"
+                href="http://localhost:1313/en/authors/"
                 />
   </url><url>
-    <loc>https://G-Zai.github.io/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://G-Zai.github.io/zh-hans/categories/"
+                href="http://localhost:1313/zh-hans/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://G-Zai.github.io/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://G-Zai.github.io/en/docs/</loc>
+    <loc>http://localhost:1313/en/docs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://G-Zai.github.io/zh-hans/docs/"
+                href="http://localhost:1313/zh-hans/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://G-Zai.github.io/en/docs/"
+                href="http://localhost:1313/en/docs/"
                 />
   </url><url>
-    <loc>https://G-Zai.github.io/en/gallery/</loc>
+    <loc>http://localhost:1313/en/gallery/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://G-Zai.github.io/zh-hans/gallery/"
+                href="http://localhost:1313/zh-hans/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://G-Zai.github.io/en/gallery/"
+                href="http://localhost:1313/en/gallery/"
                 />
   </url><url>
-    <loc>https://G-Zai.github.io/en/series/</loc>
+    <loc>http://localhost:1313/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://G-Zai.github.io/zh-hans/series/"
+                href="http://localhost:1313/zh-hans/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://G-Zai.github.io/en/series/"
+                href="http://localhost:1313/en/series/"
                 />
   </url><url>
-    <loc>https://G-Zai.github.io/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://G-Zai.github.io/zh-hans/tags/"
+                href="http://localhost:1313/zh-hans/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://G-Zai.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
 </urlset>
