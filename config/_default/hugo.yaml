@@ -1,6 +1,4 @@
-module:
-  imports:
-  - path: github.com/hbstack/theme-cards
+
 
 baseURL: https://G-Zai.github.io/
 
@@ -16,6 +14,15 @@ enableEmoji: true
 title_sections: true # when false, remove the sections from the title.
 title_sections_depth: 0 # the depth of sections on the title.
 title_sections_depth_dir: end # when start, the depth is counting from the root sections.
+
+module:
+  imports:
+  - path: github.com/hbstack/theme-cards
+
+params:
+  hb:
+    background_image:
+      modern_format: webp
 
 permalinks:
   blog: /blog/:year/:month/:title
