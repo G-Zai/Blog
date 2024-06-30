@@ -59,10 +59,10 @@ hb:
         - blog
         - tutorials
     giscus:
-  repo: "G-Zai/Blog" # required.
-  repoId: "R_kgDOHJi95g" # required.
-  category: "General" # required.
-  categoryId: "DIC_kwDOHJi95s4CTy6q"
+      repo: "G-Zai/Blog" # required.
+      repoId: "R_kgDOHJi95g" # required.
+      category: "General" # required.
+      categoryId: "DIC_kwDOHJi95s4CTy6q"
 
   content_panel:
     repo:
