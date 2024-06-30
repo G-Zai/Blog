@@ -1,6 +1,4 @@
-module:
-  imports:
-  - path: github.com/hbstack/theme-cards
+
 baseURL: https://G-Zai.github.io/
 
 title: Gload`s Space
