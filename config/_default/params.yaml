@@ -1,10 +1,10 @@
 description: Here is Gload` secrect space 
 
 hb:
-  background_color: '#f8f9fa'
+
   # override SASS variables, please replace the dash with underline, e.g. `list-group-color` should be `list_group_color`.
-  styles:
-    primary: '#6610f2'
+  # styles:
+  #   primary: '#6610f2'
   
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
@@ -52,6 +52,7 @@ hb:
     # post_thumbnail: false # whether to show the thumbnails.
     # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.
+      pinned_posts_position: list
       # taxonomies: false # remove the taxonomies stat from the homepage.
       featured_posts: 5 # the number of the featured posts.
       main_sections: # leave it empty to include all regular pages.
