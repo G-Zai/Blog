@@ -3,3 +3,6 @@
 
 # disqusShortname: XXXXXX # The Disqus shortname.
 
+module:
+  imports:
+  - path: github.com/hbstack/theme-cards
