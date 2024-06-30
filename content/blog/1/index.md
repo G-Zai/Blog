@@ -1,7 +1,7 @@
 ---
 title: "1"
 date: 2024-06-30T13:50:45+08:00
-draft: true
+
 description: 
 noindex: false
 featured: false
