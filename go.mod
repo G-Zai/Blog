@@ -1,6 +1,6 @@
 module github.com/G-Zai/Blog
 
-go 1.19
+go 1.18.1
 
 require (
 	github.com/GoogleChrome/workbox v7.1.0+incompatible // indirect
