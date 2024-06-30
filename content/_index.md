@@ -1,5 +1,5 @@
 ---
-title: HB Theme Template
+title: Gload's Space
 # menu:
 #   main:
 #     name: Home
