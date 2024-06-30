@@ -3,8 +3,8 @@ description: Here is Gload` secrect space
 hb:
   background_color: '#f8f9fa'
   # override SASS variables, please replace the dash with underline, e.g. `list-group-color` should be `list_group_color`.
-  # styles:
-  #   primary: '#6610f2'
+  styles:
+    primary: '#6610f2'
   
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
