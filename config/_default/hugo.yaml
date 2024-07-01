@@ -18,10 +18,6 @@ module:
   imports:
   - path: github.com/hbstack/theme-cards
 
-params:
-  hb:
-    background_image:
-      modern_format: webp
 
 permalinks:
   blog: /blog/:year/:month/:title
