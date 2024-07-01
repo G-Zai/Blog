@@ -66,7 +66,7 @@ hb:
       category: "General" # required.
       categoryId: "DIC_kwDOHJi95s4CTy6q"
     twikoo:
-      env_id: https://twikoo.gloade.top:40063/
+      env_id: https://twikoo.hugomods.com/
       js_url: https://cdn.staticfile.org/twikoo/1.6.36/twikoo.all.min.js
   content_panel:
     repo:
