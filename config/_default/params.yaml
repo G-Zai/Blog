@@ -11,6 +11,10 @@ hb:
   
   full_width: false # when true, the layout takes full width globally.
 
+  docs:
+    twikoo:
+      env_id: http://47.104.101.239:40063/
+      js_url: https://cdn.staticfile.org/twikoo/1.6.36/twikoo.all.min.js
   header:
     brand:  # the brand name, leave it empty to use site's title.
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
@@ -65,6 +69,7 @@ hb:
       repoId: "R_kgDOHJi95g" # required.
       category: "General" # required.
       categoryId: "DIC_kwDOHJi95s4CTy6q"
+    
 
   content_panel:
     repo:
