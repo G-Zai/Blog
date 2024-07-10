@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>zh-hans</language>
     <copyright>Copyright © 2024-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 07 Jul 2024 22:44:46 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 21:49:14 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/zh-hans/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bikeback</title>
+      <link>http://localhost:1313/zh-hans/blog/2024/07/bikeback/</link>
+      <pubDate>Wed, 10 Jul 2024 21:49:14 +0800</pubDate>
+      <guid>http://localhost:1313/zh-hans/blog/2024/07/bikeback/</guid>
+      <description>&lt;p&gt;奔袭百里，朝发夕至。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>下雨了</title>
       <link>http://localhost:1313/zh-hans/blog/2024/07/%E4%B8%8B%E9%9B%A8%E4%BA%86/</link>

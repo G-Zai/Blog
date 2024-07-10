@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2024-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 07 Jul 2024 22:19:53 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 21:53:37 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bikeback</title>
+      <link>http://localhost:1313/en/blog/2024/07/bikeback/</link>
+      <pubDate>Wed, 10 Jul 2024 21:53:37 +0800</pubDate>
+      <guid>http://localhost:1313/en/blog/2024/07/bikeback/</guid>
+      <description>&lt;p&gt;Bikeback&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Raining</title>
       <link>http://localhost:1313/en/blog/2024/07/raining/</link>
